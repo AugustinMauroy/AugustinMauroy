@@ -2,4 +2,4 @@
 - 👀 I’m interested in Html and dev minecraft
 - 🌱 I’m currently learning html, css and js
 - 💞️ I’m looking to collaborate on minecraft datapack
-- 📫 How to reach me amauroy@atheneegembloux.be
+- 📫 How to reach me augustin.mauroy@outlook.fr
