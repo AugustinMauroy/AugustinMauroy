@@ -1,5 +1,7 @@
+---
 - 👋 Hi, I’m @AugustinMauroy
 - 👀 I’m interested in Html and dev minecraft
 - 🌱 I’m currently learning html, css and js
 - 💞️ I’m looking to collaborate on minecraft datapack or in web devlopement
 - 📫 How to reach me augustin.mauroy@outlook.fr
+---
