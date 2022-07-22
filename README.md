@@ -1,7 +1,9 @@
 ---
 - 👋 Hi, I’m @AugustinMauroy
-- 👀 I’m interested in Html and dev minecraft
-- 🌱 I’m currently learning html, css and js
-- 💞️ I’m looking to collaborate on minecraft datapack or in web devlopement
+- 👀 I’m interested in Web development and Minecraft dev.
+- 🌱 I’m currently learning JavaScript, nodeJS and sql.
+- 🤔 I thinks learn swift and godo.
+- 💞️ I’m looking to collaborate on minecraft datapack or in web devlopement'
+- 💻 I Woking for [node.js](www.github.com/nodejs)
 - 📫 How to reach me augustin.mauroy@outlook.fr
 ---
