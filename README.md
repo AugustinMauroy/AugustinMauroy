@@ -1,5 +1,6 @@
 ---
 - 👋 Hi, I’m @AugustinMauroy
+- I'm 16 year old
 - 👀 I’m interested in Web development and Minecraft dev.
 - 🌱 I’m currently learning JavaScript, nodeJS and sql.
 - 🤔 I thinks learn swift and godo.
