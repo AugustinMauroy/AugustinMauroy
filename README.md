@@ -2,8 +2,8 @@
 - 👋 Hi, I’m @AugustinMauroy
 - 😇 I'm 16 year old
 - 👀 I’m interested in Web development and Minecraft dev.
-- 🌱 I’m currently learning JavaScript, nodeJS and sql.
-- 🤔 I thinks learn swift and godo.
+- 🌱 I’m currently learning `JavaScript, `nodejs` and `sql`.
+- 🤔 I thinks learn swift and godo or `vue.js` and `react.js`.
 - 💞️ I’m looking to collaborate on minecraft datapack or in web devlopement'
 - 💻 I Working for [node.js](https://github.com/nodejs)
 - 📫 How to reach me augustin.mauroy@outlook.fr
