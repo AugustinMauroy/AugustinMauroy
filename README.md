@@ -7,5 +7,5 @@
 - 💞️ I’m looking to collaborate on minecraft datapack or in web devlopement.
 - 💻 I Working for [node.js](https://github.com/nodejs)
 - 📫 How to reach me augustin.mauroy@outlook.fr
-- 📕 [My portfolio](augustinmauroy.github.io/)
+- 📕 [My portfolio](https://augustinmauroy.github.io/)
 ---
