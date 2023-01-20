@@ -2,8 +2,8 @@
 - 👋 Hi, I’m @AugustinMauroy
 - 😇 I'm 16 year old
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning `react.js` and `Next.js`.
-- 🤔 I thinks learn `vue.js`.
+- 🌱 I’m currently learning/practice `react.js` and `Next.js`.
+- 🤔 I thinks learn `vue.js` and `nuxt.js`.
 - 💞️ I’m looking to collaborate on web devlopement.
 - 💻 I Working for [node.js](https://github.com/nodejs) and on [`JSA`](https://github.com/augustinmauroy/jsa)
 - 📫 How to reach me augustin.mauroy@outlook.fr
