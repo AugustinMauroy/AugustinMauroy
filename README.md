@@ -9,4 +9,6 @@
 - 📫 How to reach me augustin.mauroy@outlook.fr
 - 📕 [My portfolio](https://augustinmauroy.github.io/) it is a work in progress. You will find some information about me and my projects.
 ---
-**I Stand With Ukraine**
+<p align="center">
+  <h1>I Stand With Ukraine</h1>
+</p>
