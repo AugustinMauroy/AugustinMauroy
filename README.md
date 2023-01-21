@@ -7,6 +7,6 @@
 - 💞️ I’m looking to collaborate on web devlopement.
 - 💻 I Working for [node.js](https://github.com/nodejs) and on [`JSA`](https://github.com/augustinmauroy/jsa)
 - 📫 How to reach me augustin.mauroy@outlook.fr
-- 📕 [My portfolio](https://augustinmauroy.github.io/)it is a work in progress. You will find some information about me and my projects.
+- 📕 [My portfolio](https://augustinmauroy.github.io/) it is a work in progress. You will find some information about me and my projects.
 ---
 **I Stand With Ukraine**
