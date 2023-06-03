@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning/practice `react.js` and `Next.js`.
 - 🤔 I don't know what to learn
 - 💞️ I’m looking to collaborate on web devlopement.
-- 💻 I Working for [node.js](https://github.com/nodejs) and on [`JSA`](https://github.com/augustinmauroy/jsa)
+- 💻 I Working for [node.js](https://github.com/nodejs) and on [BelgiumJS](https://belgiumjs.github.io)
 - 📫 How to reach me augustin.mauroy@outlook.fr
 - 📕 [My portfolio](https://augustinmauroy.github.io/) It's can be improve. To repore issue you can go [here](https://github.com/AugustinMauroy/AugustinMauroy)
 ---
