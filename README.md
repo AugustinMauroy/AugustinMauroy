@@ -1,6 +1,6 @@
 ---
 - 👋 Hi, I’m @AugustinMauroy
-- 😇 I'm 16 year old
+- 😇 I'm 17 year old
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning/practice `react.js` and `Next.js`.
 - 🤔 I don't know what to learn
