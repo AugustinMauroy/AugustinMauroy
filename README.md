@@ -14,3 +14,4 @@
 <p align="center">📕 Check out <a href="https://augustinmauroy.github.io/">My Portfolio</a>. It's a work in progress, and you can contribute by reporting issues <a href="https://github.com/AugustinMauroy/AugustinMauroy">here</a>.</p>
 
 <h2 align="center">I Stand With Ukraine 🇺🇦</h2>
+<h2 align="center">#freepalestine They must be protected from the oppressive state that is Israel</h2>
