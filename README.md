@@ -7,7 +7,7 @@
 
 <p align="center">💞️ I'm eager to collaborate on web development projects, especially those related to Node.js.</p>
 
-<p align="center">💻 Currently contributing to <a href="https://github.com/nodejs">Node.js</a> and part of <a href="https://belgiumjs.github.io">BelgiumJS</a>.</p>
+<p align="center">💻 Currently contributing to <a href="https://github.com/nodejs">Node.js</a>.</p>
 
 <p align="center">📫 You can reach me at <a href="mailto:augustin.mauroy@outlook.fr">augustin.mauroy@outlook.fr</a>.</p>
 
