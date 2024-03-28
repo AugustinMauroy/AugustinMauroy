@@ -1,6 +1,3 @@
-<h1 align="center">👋 Hi, I’m Augustin Mauroy</h1>
-<p align="center">😇 I'm a 17-year-old web development enthusiast.</p>
-
 <p align="center">👀 I’m passionate about Web development, and I'm currently diving deep into <code>React.js</code> and <code>Next.js</code>.</p>
 
 <p align="center">🤔 I'm discovering programming in <code>C</code>, <code>C++</code> and <code>rust</code></p>
